@@ -1,0 +1,148 @@
+╔═══════════════════════════════════════════════════════════════════════════════════════════╗
+║╔═══════════════════════════════╗                                                          ║
+║║╭───────────────╮              ║                                                          ║
+║║│ GNU-Szmelc    │  [V1] [DB]   ║                                                          ║
+║║│ Link-Database │              ║                                                          ║
+║║╰───────────────╯              ║                                                          ║
+║║ https://serainox420.github.io ║                                                          ║
+║╚═══════════════════════════════╝                                                          ║
+║===========================================================================================║
+║╔══════════════════════════════════════════════════════════════════════════════════╗       ║
+║║╭──────────────╮                                                                  ║       ║
+║║│ ASCII / Text │                                                                  ║       ║
+║║╰──────────────╯                                                                  ║       ║
+║║> https://fsymbols.com                                                            ║       ║
+║║> https://ozh.github.io/ascii-tables/                                             ║       ║
+║║> https://onlinetexttools.com/draw-box-around-text                                ║       ║
+║║> https://www.coolfonts.top/copy-paste-symbols.html                               ║       ║
+║║> https://www.fancyfonts.top/instagram-fonts.html                                 ║       ║
+║║> https://textcleaner.net                                                         ║       ║
+║║> https://texteditor.com/ascii-art/                                               ║       ║
+║║> https://charcounter.com/en/                                                     ║       ║
+║║> https://www.wikiwand.com/en/Box-drawing_character                               ║       ║
+║║> http://xahlee.info/comp/unicode_drawing_shapes.html                             ║       ║
+║║> https://www.aestheticsymbols.me/borders.html                                    ║       ║
+║║> https://c.r74n.com                                                              ║       ║
+║║> https://sites.google.com/site/copypastedump/unicode                             ║       ║
+║║> https://jaffagazanian.tumblr.com/post/5528389956/cool-characters-symbols        ║       ║
+║║> https://www.ascii-art-generator.org                                             ║       ║
+║║> https://jekyllrb.com/docs/front-matter/                                         ║       ║
+║║> https://en.wikipedia.org/wiki/Cuneiform                                         ║       ║
+║║> https://github.com/xero/figlet-fonts/blob/master/Examples.md                    ║       ║
+║║> https://ascii.co.uk/art/desktop                                                 ║       ║
+║║> https://ascii.co.uk/animated-art/animation-loop-animated-ascii-art-by-gasta.html║       ║
+║║> https://www.phpsecure.info/gifanimscii.php                                      ║       ║
+║║> https://asciinema.org/a/427282                                                  ║       ║
+║╚══════════════════════════════════════════════════════════════════════════════════╝       ║
+║===========================================================================================║
+║╔════════════════════════════════════════════════════════════════════════════╗             ║
+║║╭───────╮                                                                   ║             ║
+║║│ Linux │                                                                   ║             ║
+║║╰───────╯                                                                   ║             ║
+║║> https://www.tutorialspoint.com/how-to-use-rainbow-colors-in-linux-terminal║             ║
+║║> http://caca.zoy.org/wiki/PWNtcha                                          ║             ║
+║║> https://start.spring.io                                                   ║             ║
+║║                                                                            ║             ║
+║╚════════════════════════════════════════════════════════════════════════════╝             ║
+║===========================================================================================║
+║╔═════════════════════════════════════════════════════════════╗                            ║
+║║╭────────────╮                                               ║                            ║
+║║│ Funny Misc │                                               ║                            ║
+║║╰────────────╯                                               ║                            ║
+║║> http://www.wtfpl.net/about/                                ║                            ║
+║║> https://winworldpc.com/product/windows-98/98-second-edition║                            ║
+║║> https://cultofthepartyparrot.com                           ║                            ║
+║║> https://elgoog.im/terminal/                                ║                            ║
+║╚═════════════════════════════════════════════════════════════╝                            ║
+║===========================================================================================║
+║╔════════════════════════════════════════════════════╗                                     ║
+║║╭─────────────────────╮                             ║                                     ║
+║║│ Diagrams / Markdown │                             ║                                     ║
+║║╰─────────────────────╯                             ║                                     ║
+║║> https://www.nomnoml.com/#file/er                  ║                                     ║
+║║> https://kroki.io/examples.html#blockdiag          ║                                     ║
+║║> https://markdownlivepreview.com                   ║                                     ║
+║║> http://mermaid.js.org/#/                          ║                                     ║
+║║> https://obsidian.md/plugins                       ║                                     ║
+║║> https://www.canva.com/online-whiteboard/templates/║                                     ║
+║╚════════════════════════════════════════════════════╝                                     ║
+║===========================================================================================║
+║╔══════════════════════════════════════════════════════════════════════════════╗           ║
+║║╭───────────────────╮                                                         ║           ║
+║║│ Image / QR / Icon │                                                         ║           ║
+║║╰───────────────────╯                                                         ║           ║
+║║> https://barcode.tec-it.com/en/Code128?data=ABC-abc-1234                     ║           ║
+║║> https://www.bogotobogo.com/FFMpeg/ffmpeg_adv_slide_show_from_images_jpeg.php║           ║
+║║> https://simpleicons.org/?q=arch                                             ║           ║
+║║> https://svgtopng.com                                                        ║           ║
+║║> https://onlinepngtools.com/create-monochrome-png                            ║           ║
+║║> https://www.remove.bg/upload                                                ║           ║
+║║> https://onlinegiftools.com/pixelate-gif                                     ║           ║
+║║> https://emoji.gg/pack/4808-pepe                                             ║           ║
+║║> https://unsplash.com/developers                                             ║           ║
+║║                                                                              ║           ║
+║╚══════════════════════════════════════════════════════════════════════════════╝           ║
+║===========================================================================================║
+║╔════════════════════════════════════════════════════════════════════════════════════════╗ ║
+║║╭───────────────╮                                                                       ║ ║
+║║│ Audio / Sound │                                                                       ║ ║
+║║╰───────────────╯                                                                       ║ ║
+║║> https://www.meridianoutpost.com/resources/etools/calculators/calculator-morse-code.php║ ║
+║║> https://morsecode.world/international/decoder/audio-decoder-adaptive.html             ║ ║
+║║> https://nsspot.herokuapp.com/imagetoaudio/                                            ║ ║
+║║> https://sox.sourceforge.net/sox.html                                                  ║ ║
+║║> https://tuna.voicemod.net                                                             ║ ║
+║║> https://trac.ffmpeg.org/wiki/Waveform                                                 ║ ║
+║║> https://vocalremover.org/cutter                                                       ║ ║
+║║> https://research.google.com/audioset/dataset/index.html                               ║ ║
+║║                                                                                        ║ ║
+║╚════════════════════════════════════════════════════════════════════════════════════════╝ ║
+║===========================================================================================║
+║╔══════════════════════════════════════════════════════════════════════════╗               ║
+║║╭───────────────────────────────╮                                         ║               ║
+║║│ Code / Compilers / Automation │                                         ║               ║
+║║╰───────────────────────────────╯                                         ║               ║
+║║> https://zapier.com                                                      ║               ║
+║║> https://tio.run/#powershell                                             ║               ║
+║║> https://www.tutorialspoint.com/codingground.htm                         ║               ║
+║║> https://www.online-python.com                                           ║               ║
+║║> https://www.tutorialspoint.com/execute_bash_online.php                  ║               ║
+║║> https://docs.github.com/en/webhooks-and-events/webhooks/testing-webhooks║               ║
+║║> https://www.siteground.com/kb/domain-redirects/                         ║               ║
+║║                                                                          ║               ║
+║╚══════════════════════════════════════════════════════════════════════════╝               ║
+║===========================================================================================║
+║╔════════════════════════════════════════════════════════════════╗                         ║
+║║╭──────────────────╮                                            ║                         ║
+║║│ A.I / Algorithms │                                            ║                         ║
+║║╰──────────────────╯                                            ║                         ║
+║║> https://melobytes.com/en/                                     ║                         ║
+║║> https://speechbrain.github.io                                 ║                         ║
+║║> https://scribblediffusion.com                                 ║                         ║
+║║> https://weblate.org/en/features/                              ║                         ║
+║║> https://platform.openai.com/codex-javascript-sandbox          ║                         ║
+║║> https://app.runwayml.com/models                               ║                         ║
+║║> https://platform.openai.com/docs/libraries/community-libraries║                         ║
+║║                                                                ║                         ║
+║╚════════════════════════════════════════════════════════════════╝                         ║
+║===========================================================================================║
+║╔═══════════════════════════════════════════════╗                                          ║
+║║╭───────────────────────╮                      ║                                          ║
+║║│ Converters / Toolkits │                      ║                                          ║
+║║╰───────────────────────╯                      ║                                          ║
+║║> https://www.101convert.com/convert/exe-to-doc║                                          ║
+║║                                               ║                                          ║
+║╚═══════════════════════════════════════════════╝                                          ║
+║===========================================================================================║
+║╔═════════════════════════════════════════════════════════════════════════════════════════╗║
+║║╭─────────────╮                                                                          ║║
+║║│ RGB / Razer │                                                                          ║║
+║║╰─────────────╯                                                                          ║║
+║║> https://www.interhaptics.com                                                           ║║
+║║> https://assets.razerzone.com/dev_portal/REST/html/md__r_e_s_t_external_03_keyboard.html║║
+║║> http://chroma.razer.com/ChromaGuide/                                                   ║║
+║║                                                                                         ║║
+║╚═════════════════════════════════════════════════════════════════════════════════════════╝║
+║===========================================================================================║
+║                                                                                           ║
+╚═══════════════════════════════════════════════════════════════════════════════════════════╝
